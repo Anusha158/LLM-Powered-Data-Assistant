@@ -22,7 +22,7 @@ def get_few_shot_db_chain():
     Creates and returns a few-shot SQL database chain using the Google Gemini model.
     """
     db_user = "root"
-    db_password = "Myself@15"
+    db_password = "**"
     db_host = "localhost"
     db_name = "atliq_tshirts"
 
